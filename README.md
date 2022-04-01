@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rubesovm
+- 👋 Hi, I’m Martina Randulova.
 - 👀 I’m interested in front-end testing, analysing or even development.
 - 🌱 I’m currently learning React JS framework.
 - 📫 You can reach me via rubesovm@gmail.com
