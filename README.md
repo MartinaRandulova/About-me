@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martina Randulova.
 - 👀 I’m interested in front-end testing, analysing or even development.
-- 🌱 I’m currently learning React JS framework.
+- 🌱 I’m currently learning VUE3 framework.
 - 📫 You can reach me via rubesovm@gmail.com
 
 <!---
